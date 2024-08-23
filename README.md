@@ -21,4 +21,4 @@ Este proyecto es una plataforma de e-commerce dedicada a una academia de producc
 
 Clona el repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/ancartian/ecommerce_carrudo.git
